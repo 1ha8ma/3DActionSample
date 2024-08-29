@@ -1,0 +1,12 @@
+﻿  Camera.cpp
+C:\Users\hamar\Desktop\Dxlib_h\DxLib.h(3344,1): warning C4819: ファイルは、現在のコード ページ (932) で表示できない文字を含んでいます。データの損失を防ぐために、ファイルを Unicode 形式で保存してください。
+  Input.cpp
+C:\Users\hamar\Desktop\Dxlib_h\DxLib.h(3344,1): warning C4819: ファイルは、現在のコード ページ (932) で表示できない文字を含んでいます。データの損失を防ぐために、ファイルを Unicode 形式で保存してください。
+  main.cpp
+C:\Users\hamar\Desktop\Dxlib_h\DxLib.h(3344,1): warning C4819: ファイルは、現在のコード ページ (932) で表示できない文字を含んでいます。データの損失を防ぐために、ファイルを Unicode 形式で保存してください。
+  Player.cpp
+C:\Users\hamar\Desktop\Dxlib_h\DxLib.h(3344,1): warning C4819: ファイルは、現在のコード ページ (932) で表示できない文字を含んでいます。データの損失を防ぐために、ファイルを Unicode 形式で保存してください。
+  Stage.cpp
+C:\Users\hamar\Desktop\Dxlib_h\DxLib.h(3344,1): warning C4819: ファイルは、現在のコード ページ (932) で表示できない文字を含んでいます。データの損失を防ぐために、ファイルを Unicode 形式で保存してください。
+  コードを生成中...
+  MyDxLibGame3D.vcxproj -> C:\Users\hamar\Desktop\03.3dActionSample(YuiArrange)\Debug\MyDxLibGame3D.exe
